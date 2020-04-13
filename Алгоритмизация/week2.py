@@ -191,7 +191,7 @@ def loadFromJSON(filename):
 
 
 # MAIN
-print('Welcome to \'INFECTIOUS BANK\'')
+print('Welcome to \'INFECTIOUS KIU BANK\'')
 print('Type --help to list all commands.')
 while (True):
     command = input()
